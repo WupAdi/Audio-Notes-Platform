@@ -126,7 +126,7 @@ export function Dashboard() {
         >
           <div className="eyebrow"><Sparkles size={14} /> AI-powered audio notes platform</div>
           <h1>From spoken words<br />to <span>clear next steps.</span></h1>
-          <p className="lede">Upload a conversation, lecture, or voice note. Get an accurate transcript and a structured summary—without waiting on the page.</p>
+          <p className="lede">Upload a conversation, lecture, meeting, or voice note. Get an accurate transcript and a structured summary—without waiting on the page.</p>
           <div className="trust-row" aria-label="Product capabilities">
             <span><Globe2 size={16} /> 11 supported languages</span>
             <span><LockKeyhole size={16} /> Private audio storage</span>
